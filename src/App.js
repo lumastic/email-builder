@@ -2,7 +2,6 @@ import React, { useRef } from 'react';
 import EmailEditor from 'react-email-editor';
 import {Button, TopBar, Main} from "lumastic-ui";
 import sample from "./default.json"
-import "lumastic-ui/index.css";
 import "./App.css"
 
 function download(content, fileName, contentType) {
