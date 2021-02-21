@@ -6,3 +6,6 @@
 .editor-main > div:first-child {
   height: 100%;
 }
+body {
+  margin: 0;
+}
