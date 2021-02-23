@@ -6958,10 +6958,10 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
-lumastic-ui@^0.14.10:
-  version "0.14.10"
-  resolved "https://registry.yarnpkg.com/lumastic-ui/-/lumastic-ui-0.14.10.tgz#53f47be23f97827aad5fab4dbbdee41e3c363038"
-  integrity sha512-943g9rHSpAbQrmcEC8eyuJUkfzNNj6I892KsSnOaeV7fs4fgvKLxB0uRgIWRjI6ufbhes3rNOErGq4trNeBbxg==
+lumastic-ui@^0.14.11:
+  version "0.14.11"
+  resolved "https://registry.yarnpkg.com/lumastic-ui/-/lumastic-ui-0.14.11.tgz#6a78e6516b2bcd828d36387862c23f2152093874"
+  integrity sha512-e3uaehbs4m9roNq8wGMWpLwhc6b2kBKde6Gsq3WRwlzyzWGrx8EkTQudWB5mr+OocKCbCTj5RHUyrY7cfR3Exg==
   dependencies:
     moment "^2.28.0"
     pressdk ">=1.0.0"
