@@ -9100,10 +9100,10 @@ react-dom@^16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
-react-email-editor@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/react-email-editor/-/react-email-editor-1.2.0.tgz#dfc0e6a19f5dfeab4c77fc2c38cd37a3acf2af6e"
-  integrity sha512-2nlHhJSwOtc1yrhOR8nAzHIqtA0tVJkj2DtjPTDvARuVuA28PffKlk45/vdRyOHERUQf+aUUgV7MZPpZj7JoZQ==
+react-email-editor@^1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/react-email-editor/-/react-email-editor-1.6.0.tgz#474d0df4fc70f105a30c7359c4db684c7ddf6ea4"
+  integrity sha512-rxqUBVyC95AZjTX3X4aO3FtcmH6qhIOKfAqzJl4aCUHwUb5LVCvS/pjFd8jy0beDL8WJN9NG6QreVHterD1WCQ==
 
 react-error-overlay@^6.0.7:
   version "6.0.9"
